@@ -1244,7 +1244,7 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=3v3|NetColor=clBlack
+Net1=NetName=3v3|NetColor=clLime
 Net2=NetName=5v|NetColor=clBlack
 Net3=NetName=GND|NetColor=clBlack
 Net4=NetName=GSM_RST|NetColor=clBlack
@@ -1252,18 +1252,22 @@ Net5=NetName=GSM_Rx|NetColor=clBlack
 Net6=NetName=GSM_Tx|NetColor=clBlack
 Net7=NetName=hse_op|NetColor=$00000098
 Net8=NetName=LoRa_DIO0|NetColor=clBlack
-Net9=NetName=LoRa_MISO|NetColor=clBlack
-Net10=NetName=LoRa_MOSI|NetColor=clBlack
-Net11=NetName=LoRa_NSS|NetColor=clBlack
-Net12=NetName=LoRa_RST|NetColor=clBlack
-Net13=NetName=LoRa_SCK|NetColor=clBlack
-Net14=NetName=Xbee_ASSO|NetColor=clBlack
-Net15=NetName=Xbee_CTS|NetColor=clBlack
-Net16=NetName=Xbee_RSSI|NetColor=clBlack
-Net17=NetName=Xbee_RST|NetColor=clBlack
-Net18=NetName=Xbee_RTS|NetColor=clBlack
-Net19=NetName=Xbee_RxD|NetColor=clBlack
-Net20=NetName=Xbee_TxD|NetColor=clBlack
+Net9=NetName=LoRa_M0|NetColor=clAqua
+Net10=NetName=LoRa_M1|NetColor=clAqua
+Net11=NetName=LoRa_MISO|NetColor=clBlack
+Net12=NetName=LoRa_MOSI|NetColor=clBlack
+Net13=NetName=LoRa_NSS|NetColor=clBlack
+Net14=NetName=LoRa_RST|NetColor=clBlack
+Net15=NetName=LoRa_Rx|NetColor=clAqua
+Net16=NetName=LoRa_SCK|NetColor=clBlack
+Net17=NetName=LoRa_Tx|NetColor=clAqua
+Net18=NetName=Xbee_ASSO|NetColor=clBlack
+Net19=NetName=Xbee_CTS|NetColor=clBlack
+Net20=NetName=Xbee_RSSI|NetColor=clBlack
+Net21=NetName=Xbee_RST|NetColor=clBlack
+Net22=NetName=Xbee_RTS|NetColor=clBlack
+Net23=NetName=Xbee_RxD|NetColor=clBlack
+Net24=NetName=Xbee_TxD|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
