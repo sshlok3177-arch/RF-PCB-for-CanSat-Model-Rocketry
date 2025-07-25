@@ -1245,7 +1245,7 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=3v3|NetColor=clLime
-Net2=NetName=5v|NetColor=clBlack
+Net2=NetName=5v|NetColor=clRed
 Net3=NetName=GND|NetColor=clBlack
 Net4=NetName=GSM_RST|NetColor=clBlack
 Net5=NetName=GSM_Rx|NetColor=clBlack
